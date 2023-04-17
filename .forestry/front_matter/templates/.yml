@@ -1,0 +1,13 @@
+---
+label: 关于我
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: boolean
+  name: comments
+  label: comments
