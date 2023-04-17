@@ -1,4 +1,4 @@
-baseurl = "https://zlh.netlify.app/"
+baseurl = "https://zlh.netlify.app"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
